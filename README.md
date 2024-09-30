@@ -25,7 +25,7 @@ To get a local copy up and running, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/qr-code-generator.git
+   git clone https://github.com/alchemistReturns/qr-code-generator.git
 2. Open the index.html file in your web browser to use the application.
 
 ## Usage
